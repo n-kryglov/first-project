@@ -1,11 +1,12 @@
+---
 #It is my first project with git and github.#
-
 ---
 ##This file also help me learn rules create and filling 'readme.md'##
----
 
 *this text are cursiv*
+
 **this are bold**
+
 ~~this are crossed out~~
 
 num list
